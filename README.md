@@ -1,2 +1,2 @@
 # Slider-JS
-##Смотри сдесь 
+##Смотри сдесь [https://malankinam.github.io/Slider-JS/)
